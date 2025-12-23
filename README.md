@@ -8,7 +8,7 @@ Chrome extension for real-time Pyth prices on selected X cashtags
 - No data collection
 
 ## Install
-From Chrome Web Store
+From [Chrome Web Store](https://chromewebstore.google.com/search/pyth%20overlay?hl=en-US&utm_source=ext_sidebar)
 
 ## Privacy
 Open source — no tracking, no data sent anywhere.
