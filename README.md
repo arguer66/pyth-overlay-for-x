@@ -2,8 +2,9 @@
 Chrome extension for real-time Pyth prices on selected X cashtags
 
 ## Features
-- Prices for crypto & equities
+- Prices for popular crypto & equities
 - Confidence intervals
+- Data from Pyth's public API (Hermes)
 - Identification tags for prominent individuals in CT/Fintwit
 - No data collection
 
